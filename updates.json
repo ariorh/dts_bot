@@ -1,0 +1,80 @@
+{
+  "ok": true,
+  "result": [
+    {
+      "update_id": 464807236,
+      "message": {
+        "message_id": 1,
+        "from": {
+          "id": 166525525,
+          "is_bot": false,
+          "first_name": "Alexander",
+          "last_name": "Terekhov",
+          "username": "Ariorh98"
+        },
+        "chat": {
+          "id": 166525525,
+          "first_name": "Alexander",
+          "last_name": "Terekhov",
+          "username": "Ariorh98",
+          "type": "private"
+        },
+        "date": 1543602173,
+        "text": "/start",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 464807237,
+      "message": {
+        "message_id": 8,
+        "from": {
+          "id": 166525525,
+          "is_bot": false,
+          "first_name": "Alexander",
+          "last_name": "Terekhov",
+          "username": "Ariorh98",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 166525525,
+          "first_name": "Alexander",
+          "last_name": "Terekhov",
+          "username": "Ariorh98",
+          "type": "private"
+        },
+        "date": 1543603965,
+        "text": "hi"
+      }
+    },
+    {
+      "update_id": 464807238,
+      "message": {
+        "message_id": 9,
+        "from": {
+          "id": 166525525,
+          "is_bot": false,
+          "first_name": "Alexander",
+          "last_name": "Terekhov",
+          "username": "Ariorh98",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 166525525,
+          "first_name": "Alexander",
+          "last_name": "Terekhov",
+          "username": "Ariorh98",
+          "type": "private"
+        },
+        "date": 1543608526,
+        "text": "привет"
+      }
+    }
+  ]
+}
